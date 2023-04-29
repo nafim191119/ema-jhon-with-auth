@@ -1,0 +1,10 @@
+.form-container2 {
+    width: 500px;
+    height: 750px;
+    border: 2px solid gray;
+    margin: 20px auto 0;
+    border-radius: 5px;
+}
+.text-error{
+    color: rgb(255, 88, 62);
+}
